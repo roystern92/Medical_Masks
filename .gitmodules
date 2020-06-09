@@ -1,0 +1,9 @@
+[submodule "medical_masks_client"]
+	path = medical_masks_client
+	url = https://github.com/roystern92/medical_masks_client.git
+[submodule "medical_masks_admin_panel"]
+	path = medical_masks_admin_panel
+	url = https://github.com/roystern92/medical_masks_admin_panel.git
+[submodule "medical_masks_server"]
+	path = medical_masks_server
+	url = https://github.com/roystern92/medical_masks_server.git
